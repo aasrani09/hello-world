@@ -12,3 +12,4 @@ This is an example of a GitHub repository.
 
 Hello world!
 Hello world pt.2!
+This is an example change. 
